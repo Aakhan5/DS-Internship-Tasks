@@ -1,4 +1,4 @@
-# Developer-Hub-Internship-Tasks
+# DS-Tasks
 This repository contains solutions to the Advanced Internship Tasks assigned by DevelopersHub Corporation as part of the Data Science & AI/ML Engineering Internship Program.
 Each task demonstrates key industry practices in data analysis, modeling, forecasting, explainability, and dashboard development.
 
